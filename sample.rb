@@ -1,6 +1,5 @@
 def hello
-  p "hello, world."
-  p "いつもこのコード打つよね"
+マイクチェック１，２
 end
 
 hello
